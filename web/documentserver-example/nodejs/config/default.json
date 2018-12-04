@@ -12,7 +12,7 @@
   },
   "server": {
     "port": 3000,
-    "siteUrl": "https://52.36.200.167/",
+    "siteUrl": "http://52.36.200.167/",
     "commandUrl": "coauthoring/CommandService.ashx",
     "converterUrl": "ConvertService.ashx",
     "tempStorageUrl": "ResourceService.ashx",
